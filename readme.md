@@ -15,7 +15,7 @@ https://yourusername.github.io/js-api-challenge/
 ## Day 2 - Search Functionality with API Data
 
 ### Live Demo
-https://yourusername.github.io/js-api-search-posts/
+https://github.com/Harishmitha2007/js-api-challenge/tree/main/day2
 
 ### Features
 - Fetches posts from JSONPlaceholder Posts API
