@@ -36,9 +36,3 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day3
 - Displays the joke setup and punchline
 - Generates a new joke on button click
 
-### Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Fetch API
-
