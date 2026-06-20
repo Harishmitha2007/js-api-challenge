@@ -29,7 +29,7 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day2
 ## Day 3 - Random Joke Generator
 
 ### Live Demo
-
+https://github.com/Harishmitha2007/js-api-challenge/tree/main/day3
 
 ### Features
 - Fetches a random joke from the Official Joke API
