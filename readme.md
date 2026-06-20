@@ -42,6 +42,3 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day3
 - JavaScript
 - Fetch API
 
-### API Used
-Official Joke API
-https://official-joke-api.appspot.com/random_joke
