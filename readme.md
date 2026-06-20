@@ -23,3 +23,25 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day2
 - Provides a search box for users
 - Filters posts by title as the user types
 - Updates results instantly without reloading the page
+
+# JS API Challenge
+
+## Day 3 - Random Joke Generator
+
+### Live Demo
+
+
+### Features
+- Fetches a random joke from the Official Joke API
+- Displays the joke setup and punchline
+- Generates a new joke on button click
+
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Fetch API
+
+### API Used
+Official Joke API
+https://official-joke-api.appspot.com/random_joke
