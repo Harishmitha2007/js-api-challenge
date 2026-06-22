@@ -36,3 +36,16 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day3
 - Displays the joke setup and punchline
 - Generates a new joke on button click
 
+
+  # Day 4 - Weather App
+  ### Live Demo
+  
+
+## Features
+- Search weather by city name
+- Uses OpenWeatherMap API
+- Displays temperature
+- Displays weather description
+
+
+
