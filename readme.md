@@ -48,5 +48,16 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day3
 - Displays temperature
 - Displays weather description
 
+# JS API Challenge
+
+## Day 5 - Image Gallery from API
+
+### LiveDemo
+
+
+### Features
+- Fetches random images from Unsplash API
+- Displays images in a responsive grid
+- Uses lazy loading for better performance
 
 
