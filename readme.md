@@ -53,6 +53,7 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day3
 ## Day 5 - Image Gallery from API
 
 ### LiveDemo
+https://github.com/Harishmitha2007/js-api-challenge/tree/main/day5
 
 
 ### Features
