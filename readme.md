@@ -61,4 +61,16 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day5
 - Displays images in a responsive grid
 - Uses lazy loading for better performance
 
+  # Pagination with API
+
+### Live Demo
+
+
+## Features
+- Fetches posts from JSONPlaceholder API.
+- Displays 10 posts per page.
+- Previous button navigates to the previous page.
+- Next button navigates to the next page.
+- Updates page number dynamically.
+
 
