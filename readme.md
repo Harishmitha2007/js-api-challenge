@@ -61,9 +61,10 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day5
 - Displays images in a responsive grid
 - Uses lazy loading for better performance
 
-  # Pagination with API
+# Pagination with API
 
 ### Live Demo
+https://github.com/Harishmitha2007/js-api-challenge/tree/main/day6
 
 
 ## Features
