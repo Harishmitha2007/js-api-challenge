@@ -61,7 +61,7 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day5
 - Displays images in a responsive grid
 - Uses lazy loading for better performance
 
-# Pagination with API
+# Day -6 Pagination with API
 
 ### Live Demo
 https://github.com/Harishmitha2007/js-api-challenge/tree/main/day6
@@ -74,4 +74,16 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day6
 - Next button navigates to the next page.
 - Updates page number dynamically.
 
+# Day 7 – Pseudo-classes & Pseudo-elements
+
+### Live Demo
+https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-7
+
+## Features
+- Uses the `::before` pseudo-element to add custom star (★) icons before list items.
+- Replaces default list bullets with custom symbols.
+- Uses the `:hover` pseudo-class to create interactive effects.
+- Changes text color when the user hovers over a list item.
+- Demonstrates the use of CSS pseudo-classes and pseudo-elements.
+- Simple and clean list styling with improved visual appearance.
 
