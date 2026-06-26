@@ -87,3 +87,16 @@ https://github.com/Harishmitha2007/10-Day-CSS-Challenge/tree/main/day-7
 - Demonstrates the use of CSS pseudo-classes and pseudo-elements.
 - Simple and clean list styling with improved visual appearance.
 
+# Day 8 – GitHub User Finder
+
+## Live Demo
+https://github.com/Harishmitha2007/js-api-challenge/tree/main/day8
+
+## Features
+- Uses the GitHub Users API to fetch user details.
+- Allows users to search for any GitHub profile by username.
+- Displays the user's profile picture, name, username, followers, and public repositories.
+- Shows the user's location (if available).
+- Includes a direct link to visit the GitHub profile.
+- Handles invalid usernames with a user-friendly error message.
+- Responsive and clean user interface for a better user experience.
