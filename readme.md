@@ -100,3 +100,17 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day8
 - Includes a direct link to visit the GitHub profile.
 - Handles invalid usernames with a user-friendly error message.
 - Responsive and clean user interface for a better user experience.
+
+  # Day 9 - Todo App with API
+
+## Live Demo
+
+
+## Features
+
+- Fetch todos from JSONPlaceholder API
+- Display todo list
+- Mark todo as completed
+- Update todo using PUT request
+- Responsive UI
+
