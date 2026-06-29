@@ -114,3 +114,22 @@ https://github.com/Harishmitha2007/js-api-challenge/tree/main/day9
 - Update todo using PUT request
 - Responsive UI
 
+  # Day 10 - Login Simulation
+## Live Demo
+
+## Features
+- Login form
+- POST request using Fetch API
+- Success message
+- Error message
+- Responsive design
+
+## Successful Login Credentials
+
+Email:
+eve.holt@reqres.in
+
+Password:
+cityslicka
+
+
